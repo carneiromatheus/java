@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class MatheusCarneiro08 {
   public static void main(String[] args) {
      Scanner sc = new Scanner(System.in);
-    double sum = 1;
+    double sum = 0;
 
     System.out.print("Digite o valor de N (positivo): ");
     int limit = sc.nextInt();
